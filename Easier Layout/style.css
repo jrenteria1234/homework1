@@ -1,0 +1,111 @@
+body {
+    background-color: #808080;
+    width: 80%;
+    margin: auto;
+}
+
+header {
+    margin-top: 10px;
+    background-color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+    height: 100px;
+    color: #808080;
+}
+
+
+nav {
+    margin-top: 10px;
+    background-color: #ffffff;
+    text-align: center; 
+    vertical-align: middle;
+    line-height: 100px; 
+    height: 100px;
+    color: #808080; 
+}
+
+#container {
+    display: flex;
+    justify-content: space-between;
+}
+
+section {
+    margin-top: 10px;
+    float: left;
+    background-color: #ffffff;
+    width: 55%;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: #808080;
+}
+
+aside {
+    margin-top: 10px;
+    float: right;
+    background-color: #ffffff;
+    width: 43%;
+    height: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    vertical-align: middle;
+    color: #808080;
+    padding-top: 100px;
+   
+
+    
+}
+
+footer {
+    clear: both;
+    background-color: #ffffff;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+    color: #808080;
+}
+
+#articleFix {
+    padding-top: 10px;
+    color: #ffffff;
+    background-color: #808080;
+    width: 95%;
+    margin: auto;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    
+}
+
+#headingArticle {
+    background-color: #ffffff;
+    width: 95%;
+    color: #808080;
+    margin: auto;
+    height: 50px;
+    vertical-align: middle;
+    line-height: 50px;
+   
+}
+
+#paragraphs {
+    
+    background-color: #ffffff;
+    width: 95%;
+    color: #808080;
+    margin: auto;
+    height: 50px;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+#hi {
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+#headingArticleDiv {
+    padding-top: 10px;
+}
